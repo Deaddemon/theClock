@@ -35,10 +35,7 @@
  
    
 @media (max-width:767px){
-    body{
-        background-color: rgb(119, 199, 15);
-        color:#ffff;
-    }
+     
     .par{
         display: block;
     }
